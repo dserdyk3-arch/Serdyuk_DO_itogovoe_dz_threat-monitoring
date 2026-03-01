@@ -1,0 +1,56 @@
+{
+  "192.168.1.100": {
+    "ip": "192.168.1.100",
+    "malicious": false,
+    "suspicious": true,
+    "source": "simulated"
+  },
+  "192.168.1.105": {
+    "ip": "192.168.1.105",
+    "malicious": true,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "10.0.0.55": {
+    "ip": "10.0.0.55",
+    "malicious": true,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "192.168.1.101": {
+    "ip": "192.168.1.101",
+    "malicious": false,
+    "suspicious": true,
+    "source": "simulated"
+  },
+  "192.168.1.102": {
+    "ip": "192.168.1.102",
+    "malicious": false,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "172.16.1.200": {
+    "ip": "172.16.1.200",
+    "malicious": true,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "192.168.1.103": {
+    "ip": "192.168.1.103",
+    "malicious": false,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "203.0.113.45": {
+    "ip": "203.0.113.45",
+    "malicious": true,
+    "suspicious": false,
+    "source": "simulated"
+  },
+  "192.168.1.104": {
+    "ip": "192.168.1.104",
+    "malicious": false,
+    "suspicious": false,
+    "source": "simulated"
+  }
+}
